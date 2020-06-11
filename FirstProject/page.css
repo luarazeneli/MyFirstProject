@@ -1,0 +1,63 @@
+body{
+	 background:  url(images/download.png) rgba(94, 94, 99, 0.93);
+	 z-index: -1;
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+	 
+
+}
+
+#title{
+	color: white;
+	
+	text-align: center;
+	
+	font-size:70px;
+	margin-bottom: 0 ;
+	
+	
+} 
+#ti{
+	text-align:center;
+	 color:#d6d2d2;
+	 margin-top: 0;
+	 font-family: verdana;
+
+
+}
+#image{
+	margin-left:40px;
+
+
+}
+.none{
+	width:1176px;
+	height: 200px;
+	margin-left: 39px;
+	/*color: #a19797;*/
+	background-color: white;
+}
+
+#text{
+	background-color:#ded9d9;
+	width:1176px;
+	height: 300px;
+	margin-top: -20px;
+	margin-left: 39px;
+	color: #666464;
+	font-style: inherit;
+    font-variant-ligatures: inherit;
+    font-variant-caps: inherit;
+    font-variant-numeric: inherit;
+    font-variant-east-asian: inherit;
+    font-weight: inherit;
+    font-stretch: inherit;
+
+}
+
+
+
+
+
+ 
